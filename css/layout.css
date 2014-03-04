@@ -1,11 +1,25 @@
-header {
-    height: 100px;
-    background-color: #ccc;
-    margin-bottom: 10px;
+footer {
+    height: 379px;
+    margin-top:30px;
+
+}
+.footer-product{
+    height: 179px;
+    border-bottom: 1px #eeeeee solid;
+    border-top: 1px #eeeeee solid;
+    background-color: #ffffff;
 }
 
-footer {
-    height: 100px;
-    background-color: #ccc;
-    margin-top: 10px;
+.footer-about{
+    color: #666666;
+    text-align: center;
+    height: 179px;
+    border-right: 1px #eeeeee solid;
+    padding-top: 10px;
+}
+.footer-cop{
+    height: 170px;
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 30px;
 }
